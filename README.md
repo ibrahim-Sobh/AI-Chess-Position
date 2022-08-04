@@ -25,8 +25,7 @@ The state of the art to solve this problem is using a CNN’s that feeds on the 
 Chessboards Forsyth–Edwards Notation (FEN for short) is a standard notation for describing a particular board position of a chess game. The purpose of FEN is to provide all the necessary information to restart a game from a particular position, FEN is used to define initial positions oth. Usually (Capital Letters for White) (small Letters for Black)
 
 Example in the picture above: 7B-8-1RK2B2-5NR1-4q2p-1P6-2k2P2-2B2N27
-[output.svg.pdf](https://github.com/ibrahim-Sobh/AI-Chess-Position/files/9261619/output.svg.pdf)
-
+![output-onlinepngtools](https://user-images.githubusercontent.com/49615833/182905540-68cc56a2-d651-4439-89a7-be09a07be866.png)
 
 7B     -> means & empty spaces then Bishop (White)    
 8      -> means empty row 
