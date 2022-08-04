@@ -12,7 +12,7 @@ This **notebook** includes:
 * Performance Evaluation ✅
 * Saving Model for Production ✅
 
-**Dataset** https://www.kaggle.com/code/jayshworkhadka/chess-fen-prediction </br>
+**Dataset** https://www.kaggle.com/datasets/koryakinp/chess-positions?datasetId=115231/br>
 **My Kaggle Published Notebook** https://www.kaggle.com/code/ibrahimsoboh/chess-positions-fen-prediction-eda-cnn-model </br>
 
 
