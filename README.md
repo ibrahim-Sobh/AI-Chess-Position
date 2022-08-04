@@ -17,7 +17,7 @@ This **notebook** includes:
 
 
 
-1. Introduction:
+## Introduction:
 This project tackles the problem of detecting chessboards positions captured in 2D Chess Boards images. A chessboard board consists of 64 squares (eight rows and eight columns) and the chess pieces that are placed on a board.
 The problem of recognizing a chessboard from an image can be difficult, with a major issue mostly being the quality of images (lighting issues and low resolutions images).
 For this reason, most current methods for chessboard recognition typically perform certain simplifications. This includes utilizing only a single chessboard style during experiments, capturing images with adirect overhead view of the chessboard (in Case of 2D Chess Board Recognition ) or at a convenient angle specified in advanced ( in Case of 3D Chess Board Recognition).
@@ -39,5 +39,10 @@ The dataset I used in this project is tske
 dataset description, tested models explanation (1 page max). 
 Results: describe your performances and the evaluation metrics you selected (2 pages max). 
 ○ Conclusion and perspectives (1 page max). 
- 
+
+
+## Results
+![Screenshot 2022-08-04 at 10 19 05 PM](https://user-images.githubusercontent.com/49615833/182951656-d5bd03bf-1f73-4acb-9947-b8c71d4f1589.png)![Screenshot 2022-08-04 at 10 12 54 PM](https://user-images.githubusercontent.com/49615833/182951645-12112355-a6c6-4180-9d7e-21d34d378906.png)
+
+
 
