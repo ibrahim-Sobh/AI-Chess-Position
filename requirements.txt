@@ -8,3 +8,5 @@ scikit-learn==1.0.2
 tensorflow-deps==2.9.0  
 tensorflow-macos==2.9.2 
 opencv-python==4.6.0.66
+chess==1.9.2 
+cairosvg==2.5.2 
