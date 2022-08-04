@@ -23,7 +23,10 @@ The problem of recognizing a chessboard from an image can be difficult, with a m
 For this reason, most current methods for chessboard recognition typically perform certain simplifications. This includes utilizing only a single chessboard style during experiments, capturing images with adirect overhead view of the chessboard (in Case of 2D Chess Board Recognition ) or at a convenient angle specified in advanced ( in Case of 3D Chess Board Recognition).
 The state of the art to solve this problem is using a CNN’s that feeds on the chess Board blocks (for each image we chop it into 64 blocks representing 64 position/ possible piece). Afterwards we encode the labels into classes (multiclass classification) to get the result and then we decode the results to reproduce the images of predicted FEN’s.
 Chessboards Forsyth–Edwards Notation (FEN for short) is a standard notation for describing a particular board position of a chess game. The purpose of FEN is to provide all the necessary information to restart a game from a particular position, FEN is used to define initial positions oth. Usually (Capital Letters for White) (small Letters for Black)
+
 Example in the picture above: 7B-8-1RK2B2-5NR1-4q2p-1P6-2k2P2-2B2N27
+[output.svg.pdf](https://github.com/ibrahim-Sobh/AI-Chess-Position/files/9261619/output.svg.pdf)
+
 
 7B     -> means & empty spaces then Bishop (White)    
 8      -> means empty row 
