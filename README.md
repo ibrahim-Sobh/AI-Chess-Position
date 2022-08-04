@@ -42,7 +42,7 @@ Results: describe your performances and the evaluation metrics you selected (2 p
 
 
 ## Results
-![Screenshot 2022-08-04 at 10 19 05 PM](https://user-images.githubusercontent.com/49615833/182951656-d5bd03bf-1f73-4acb-9947-b8c71d4f1589.png)![Screenshot 2022-08-04 at 10 12 54 PM](https://user-images.githubusercontent.com/49615833/182951645-12112355-a6c6-4180-9d7e-21d34d378906.png)
 
+![Screenshot 2022-08-04 at 10 12 54 PM](https://user-images.githubusercontent.com/49615833/182951915-66c95aae-7b6f-4cda-ba5d-a39f40196f52.png)![Screenshot 2022-08-04 at 10 19 05 PM](https://user-images.githubusercontent.com/49615833/182951928-6668c7f5-911b-414a-99a1-beaf83b64482.png)
 
 
